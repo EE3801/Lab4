@@ -12,6 +12,7 @@ Part B consists of:
 > <p class="task"> Task
 >
 > Submit the following task for lab report for Part B: 
+> - Step [14](5.md#14)
 > - Step [62](8.md#62)
 > 
 > before:
