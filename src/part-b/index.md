@@ -23,7 +23,7 @@ Part B consists of:
 > 
 > before:
 >
-> <p class="warn"> 9 pm on Oct 25th (Wednesday)
+> <p class="warn"> 9 pm on September 4th (Wednesday)
 >
 > in **PDF format only**, and name the file `Lab4B_YourName.pdf`
 
