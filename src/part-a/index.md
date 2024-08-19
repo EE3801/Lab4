@@ -21,6 +21,6 @@ Part A will consist of:
 > 
 > before:
 >
-> <p class="warn"> the end of the lab session at 2 pm on Oct 23rd (Monday)
+> <p class="warn"> the end of the lab session at 2 pm on September 2nd (Monday)
 >
 > in **PDF format only**, and name the file `Lab4A_YourName.pdf`
