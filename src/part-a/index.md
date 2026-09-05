@@ -15,9 +15,8 @@ Part A will consist of:
 > - Step [13](4.md#13)
 >
 > Repeat these steps from Lab 3:
-> - Step [36](https://ee3801.github.io/Lab3/part-a/5.html#36)
-> - Step [37](https://ee3801.github.io/Lab3/part-a/5.html#37)
-> - Step [75](https://ee3801.github.io/Lab3/part-b/11.html#75)
+> - Step [36](https://ee3801.github.io/Lab3/part-a/5.html#36) (showing your latest bill)
+> - Step [37](https://ee3801.github.io/Lab3/part-a/5.html#37) (showing the amount used in your budget)
 > 
 > before:
 >
